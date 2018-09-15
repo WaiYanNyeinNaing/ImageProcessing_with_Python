@@ -12,7 +12,9 @@ Install missing dependencies using pip
 - Open JupyterNotebook/ipython notebook to run the code.
 
 # Data
+
+- Original Image
 ![alt Original_Image](https://github.com/WaiYanNyeinNaing/ImageProcessing_with_Python/blob/master/eye.jpg)
 
-
+- Noisy Image
 ![alt Noisy_Image](https://github.com/WaiYanNyeinNaing/ImageProcessing_with_Python/blob/master/noise.jpg)
