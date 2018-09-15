@@ -14,7 +14,9 @@ Install missing dependencies using pip
 # Data
 
 - Original Image
+
 ![alt Original_Image](https://github.com/WaiYanNyeinNaing/ImageProcessing_with_Python/blob/master/eye.jpg)
 
 - Noisy Image
+
 ![alt Noisy_Image](https://github.com/WaiYanNyeinNaing/ImageProcessing_with_Python/blob/master/noise.jpg)
